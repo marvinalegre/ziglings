@@ -1,5 +1,9 @@
 # Ziglings
 
+> My solutions and progress while working through Ziglings.
+
+---
+
 Welcome to Ziglings! This project contains a series of tiny
 broken programs (and one nasty surprise). By fixing them, you'll
 learn how to read and write [Zig](https://ziglang.org/) code.
